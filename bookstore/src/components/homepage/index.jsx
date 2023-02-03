@@ -11,7 +11,6 @@ const HomePage = () => {
 
  useEffect(() => {
   getData(search, setResponse, setError)
-  console.log(search)
  }, [search]);
 
 
