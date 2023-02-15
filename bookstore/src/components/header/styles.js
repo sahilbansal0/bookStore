@@ -23,6 +23,7 @@ padding-bottom: 300px;
  height: 450px;
  background-image: url('https://cdn.pixabay.com/photo/2016/02/16/21/07/books-1204029__480.jpg');
  clip-path: circle(100% at left 150px);
+
 }
  input{
 width: 26rem;
@@ -30,6 +31,7 @@ height: 3rem;
 font-weight: 500;
 font-size: large;
 outline: none;
+padding: 10px;
 
  }
 

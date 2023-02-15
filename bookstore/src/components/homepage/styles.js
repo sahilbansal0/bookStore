@@ -16,4 +16,8 @@ width: 100%;
  justify-content: center;
  padding-top: 30px;
 }
+.noList{
+ margin: auto;
+ color: brown;
+}
 `
